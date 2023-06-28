@@ -12,6 +12,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # GhostIcon
 $(call inherit-product-if-exists, vendor/ghosticon/ghosticon.mk)
+$(call inherit-product-if-exists, vendor/wallx/wallxayra.mk)
 
 # Inherit from alioth device
 $(call inherit-product, device/xiaomi/alioth/device.mk)
