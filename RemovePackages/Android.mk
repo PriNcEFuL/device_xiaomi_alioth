@@ -12,9 +12,11 @@ LOCAL_OVERRIDES_PACKAGES := \
     GoogleCamera \
     Maps \
     AudioFX \
+    Aperture \
     Eleven \
     Etar \
     Jelly \
+    Velvet \
     MusicFX \
     Music \
     Recorder \
