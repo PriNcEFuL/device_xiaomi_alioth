@@ -1,12 +1,14 @@
 # GhostDroid
 ro.rising.maintainer=GHOST | ゴースト
 ro.rising.code=Ghost_Edition
-ro.riseui.code=13.6
+ro.riseui.code=13.8
 ro.rising.packagetype=PIXEL
-ro.rising.releasetype=Reborn
-ro.rising.version=13.7
-ro.rising.chipset=kona
-ro.rising.build.version=13.7
-ro.rising.display.version=13.7
-ro.rising.platform_release_codename=Reborn
+ro.rising.releasetype=Tesseract
+ro.rising.version=13.8
+ro.rising.chipset=Snapdragon 870™
+ro.rising.build.version=13.8
+ro.rising.display.version=13.8
+ro.product.manufacturer=alioth
+ro.rising.device=alioth
+ro.rising.platform_release_codename=Tesseract
 
