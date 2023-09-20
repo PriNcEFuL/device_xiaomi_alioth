@@ -5,10 +5,7 @@ LOCAL_MODULE := RemovePackages
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
-    Chrome \
-    Chrome-Stub \
     Drive \
-    PrebuiltGmail \
     GoogleCamera \
     Maps \
     AudioFX \
@@ -16,24 +13,18 @@ LOCAL_OVERRIDES_PACKAGES := \
     Eleven \
     Etar \
     Jelly \
-    Velvet \
     MusicFX \
     Music \
-    Recorder \
     Seedvault \
     MyVerizonServices \
-    GoogleTTS \
     arcore \
     Videos \
     MaestroPrebuilt \
     AndroidAutoStubPrebuilt \
     talkback \
-    SoundAmplifierPrebuilt \
     DevicePolicyPrebuilt \
-    FilesPrebuilt \
     obdm_stub \
     OemDmTrigger \
-    OPScreenRecord \
     Ornament \
     SafetyHubPrebuilt \
     ScribePrebuilt \
